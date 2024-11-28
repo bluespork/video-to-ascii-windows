@@ -10,6 +10,7 @@ Convert video clips into ASCII art using Python.
   ```
 
 ## Usage
+
 1. **Convert video to ASCII text file**:
    ```bash
    python video_to_ascii_windows.py input_video.mp4
@@ -21,3 +22,8 @@ Convert video clips into ASCII art using Python.
    python play_ascii.py
    ```
    Plays the ASCII video in the terminal.
+
+## Notes
+- This script dynamically adjusts to your terminal size and works across resolutions.
+- **Best results are achieved on a 4K resolution**. Lower resolutions (e.g., 1080p) will still work but with reduced detail.
+- For the best viewing experience, maximize your terminal window.
