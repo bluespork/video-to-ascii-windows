@@ -25,9 +25,9 @@ Convert video clips into ASCII art using Python.
    ```bash
    python play_ascii.py
    ```
-   Plays the ASCII video in the terminal.
+   Plays the ASCII video in the Command Prompt or PowerShell.
 
 ## Notes
-- This script dynamically adjusts to your terminal size and works across resolutions.
+- This script dynamically adjusts to your Command Prompt or PowerShell window size and works across resolutions.
 - **Best results are achieved on a 4K resolution**. Lower resolutions (e.g., 1080p) will still work but with reduced detail.
-- For the best viewing experience, maximize your terminal window.
+- For the best viewing experience, maximize your Command Prompt or PowerShell window.
