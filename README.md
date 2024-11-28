@@ -11,13 +11,17 @@ Convert video clips into ASCII art using Python.
 
 ## Usage
 
-1. **Convert video to ASCII text file**:
+1. **Prepare Your Video**:
+   - Rename your video file to `input_video.mp4`.
+   - Place the video in the same folder as the scripts.
+
+2. **Convert video to ASCII text file**:
    ```bash
    python video_to_ascii_windows.py input_video.mp4
    ```
    This generates `ascii_video.txt`.
 
-2. **Play the generated ASCII video**:
+3. **Play the generated ASCII video**:
    ```bash
    python play_ascii.py
    ```
