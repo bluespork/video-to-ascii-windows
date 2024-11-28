@@ -1,2 +1,16 @@
-# video-to-ascii-windows
-Convert video clips to ASCII art using Python. This tool is optimized for Windows and includes all necessary scripts and instructions.
+Video to ASCII for Windows
+
+Convert video clips into ASCII art using Python.
+
+Requirements
+- Python 3.6+
+- Install dependencies: pip install -r requirements.txt
+
+Usage
+Convert video to ASCII:
+
+1. python video_to_ascii_windows.py input_video.mp4
+Generates ascii_video.txt.
+
+Play ASCII video:
+python play_ascii.py
