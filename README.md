@@ -12,5 +12,5 @@ Convert video to ASCII:
 1. python video_to_ascii_windows.py input_video.mp4
 Generates ascii_video.txt.
 
-Play ASCII video:
+2. Play ASCII video:
 python play_ascii.py
